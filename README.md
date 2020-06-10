@@ -7,7 +7,7 @@ The Reddit user [elvaan](https://www.reddit.com/user/elvaan) requested a program
 >
 >3. Else, it scrolls down and searches again for `X` image.
 >
->4. Else, it clicks on `Z` and starts over.
+>4. If it fails again, it clicks on `Z` and starts over.
 >
 >5. `X`, `Y`, and `Z` can be customized.
 
